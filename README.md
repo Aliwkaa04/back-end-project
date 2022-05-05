@@ -53,7 +53,7 @@ This site can be used by anyone who wants to buy clothes. On the website you can
 
 ## Database
 
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Image text](https://github.com/Aliwkaa04/back-end-project/blob/main/db.jpg)
 
 ## License & copyright
 © Suleyman Demirel University
