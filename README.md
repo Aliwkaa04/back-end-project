@@ -1,50 +1,38 @@
-# Lost and Found SDU NURALI 
+# Ecommerce SDU 
 
-Mobile application written of flutter for the SDU community
+Online store
 
 ## Description of project
 
-**Lost and Found application** - this mobile app helps students at SDU, with lost items around the campus. The students can use this application to post details of the           lost items and found items.
+**Ecommerce SDU** - this is a website for online clothing sales. At 21, it's easier to buy clothes online.
 
-We made this app for cross platform using [Flutter](https://flutter.dev/)
+We made this website for Python use using [django]
 
 ## Mentor
 * [Bissenbay Dauletbayev](https://github.com/bissenbay) - b.dauletbayev@sdu.edu.kz
 
 
 ## Team Members
-* [Medetov Zhandos](https://github.com/zhandosmd) - 190103445@stu.sdu.edu.kz 
-* [Sapar Oralbek](https://github.com/Or4lbek)   - 190109012@stu.sdu.edu.kz 
-* [Medeuova Zhaniya](https://github.com/Medeu-z)- 190103138@stu.sdu.edu.kz
+* [Akylbek Ali](https://github.com/Aliwkaa04) - 200103314@stu.sdu.edu.kz 
+* [Umarzak Nurali](https://github.com/nurik17) - 200103374@stu.sdu.edu.kz 
+* [Ospan Aruzhan] - 200103026@stu.sdu.edu.kz
 
 ## Goal
 
-The goal of the Lost and Found application is to ensure all lost items are returned to their rightful owner in a timely and efficient manner.
-
-## What problems does our app solve?
-
-A lot of things are lost every day in our university and there is no platform and service that solves this problem. With the help of our application, users can make their lives easier.
-
-## Scope and Features
-
-* Same UI and Business Logic in All Platforms
-* Similar to Native App Performance
-* Custom, Animated UI of Any Complexity Available
-* Simple Platform-Specific Logic Implementation
+The purpose of the Ecommerce SDU website is to conveniently buy clothes and save time for the buyer.
 
 ## Project structure
 
-* Splash screen page
-* Intro page
-* Login/registration page
+* Payment page
+* Shopping cart
+* Introductory page
+* Login/Registration page
 * Home page
-* Add item page
-* Saved posts page
-* Profile page
+* Add a product page
 
 ## Users
 
-This app can be used by anyone who wants to find their lost things and can help others to help find them. In the app you can record your finds and read about other people's losts.
+This site can be used by anyone who wants to buy clothes. On the website you can find suitable clothes for yourself.
 
 ## Screenshots
 
@@ -65,15 +53,7 @@ This app can be used by anyone who wants to find their lost things and can help 
 
 ## Database
 
-For this project, we use MySQL database.
-
-Database consists of two tables with relation one to many: Two tables connected with foreign key user_id, because one user has many records.
-
-to record data:
-
 ![Untitled Diagram](https://user-images.githubusercontent.com/72996538/142143982-1086d268-1803-4a67-a63c-20eb51bf29c5.png)
-
-
 
 ## Project Demo
 
