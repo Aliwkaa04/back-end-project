@@ -6,7 +6,7 @@ Online store
 
 **Ecommerce SDU** - this is a website for online clothing sales. At 21, it's easier to buy clothes online.
 
-We made this website for Python use using [django]
+We made this website for Python using [django]
 
 ## Mentor
 * [Bissenbay Dauletbayev](https://github.com/bissenbay) - b.dauletbayev@sdu.edu.kz
