@@ -14,7 +14,7 @@ We made this website for Python using [django]
 
 ## Team Members
 * [Akylbek Ali](https://github.com/Aliwkaa04) - 200103314@stu.sdu.edu.kz 
-* [Umarzak Nurali](https://github.com/nurik17) - 200103371@stu.sdu.edu.kz 
+* [Umirzak Nurali](https://github.com/nurik17) - 200103371@stu.sdu.edu.kz 
 * [Ospan Aruzhan] - 200103026@stu.sdu.edu.kz
 
 ## Goal
